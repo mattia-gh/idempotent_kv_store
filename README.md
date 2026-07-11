@@ -1,6 +1,6 @@
 # idempotent_kv_store
-Progetto 3: Architetture dei Sistemi Distribuiti
-Componenti: Dimitri Mattozzi, Mattia Bove
+Progetto 3: Architetture dei Sistemi Distribuiti.
+Componenti: Dimitri Mattozzi, Mattia Bove.
 
 # KV Store con retry idempotenti
 
