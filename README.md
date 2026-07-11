@@ -1,9 +1,7 @@
-# idempotent_kv_store
+# KV Store con retry idempotenti
 Progetto 3: Architetture dei Sistemi Distribuiti.
 
 Componenti: Dimitri Mattozzi, Mattia Bove.
-
-# KV Store con retry idempotenti
 
 Obiettivo: rendere sicuri i retry delle operazioni mutative.
 
